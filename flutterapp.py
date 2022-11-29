@@ -17,5 +17,6 @@ class Bananas(Apples):
         self.name += ' this is a testing for the last itaem'
         print(self.name)
 if __name__ == '__main__':
+    # this is a first time to show all the need for the last to the first time to up to date the last time to the main project or the file for the testing to show 21
 
     object = Bananas()
